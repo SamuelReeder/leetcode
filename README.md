@@ -4,6 +4,6 @@ This is a collection of all my available LeetCode solutions. They are mainly in 
 
 This repository will be updated to feature any new submissions too.
 
-I've made this repository for two reasons:
+**I've made this repository for two reasons:**
 1. So I can reliably save my submissions.
 2. So my GitHub contribution chart also reflects when I'm focusing on LeetCode instead of projects.
